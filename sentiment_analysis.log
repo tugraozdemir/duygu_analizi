@@ -1,0 +1,149 @@
+2025-06-18 18:06:58,496 - INFO - Veri seti yüklendi: 49899 örnek
+2025-06-18 18:07:14,718 - INFO - 
+Sýnýf daðýlýmý:
+sentiment
+Positive     17120
+Negative     17082
+Neutral      15609
+sentiment        1
+Name: count, dtype: int64
+2025-06-18 18:07:14,718 - INFO - Veri seti yüklendi: 825 örnek
+2025-06-18 18:07:14,929 - INFO - 
+Sýnýf daðýlýmý:
+sentiment
+Neutral     285
+Positive    275
+Negative    264
+Name: count, dtype: int64
+2025-06-18 18:07:14,931 - INFO - Model eðitiliyor...
+2025-06-18 18:07:16,170 - INFO - Model deðerlendiriliyor...
+2025-06-18 18:07:16,187 - INFO - 
+Sýnýflandýrma Raporu:
+2025-06-18 18:07:16,190 - INFO -               precision    recall  f1-score   support
+
+    Positive       0.85      0.92      0.89       275
+    Negative       0.86      0.87      0.86       264
+     Neutral       0.90      0.83      0.86       285
+
+    accuracy                           0.87       824
+   macro avg       0.87      0.87      0.87       824
+weighted avg       0.87      0.87      0.87       824
+
+2025-06-18 18:07:16,190 - INFO - 
+Confusion Matrix:
+2025-06-18 18:07:16,190 - INFO - [[253   9  13]
+ [ 23 229  12]
+ [ 20  29 236]]
+2025-06-18 18:07:16,219 - INFO - Model kaydedildi: sentiment_model.pkl
+2025-06-18 18:20:46,935 - INFO - Veri seti yüklendi: 49899 örnek
+2025-06-18 18:20:59,720 - INFO - 
+Sýnýf daðýlýmý:
+sentiment
+Positive     17120
+Negative     17082
+Neutral      15609
+sentiment        1
+Name: count, dtype: int64
+2025-06-18 18:20:59,722 - INFO - Veri seti yüklendi: 825 örnek
+2025-06-18 18:20:59,917 - INFO - 
+Sýnýf daðýlýmý:
+sentiment
+Neutral     285
+Positive    275
+Negative    264
+Name: count, dtype: int64
+2025-06-18 18:20:59,923 - INFO - Model eðitiliyor...
+2025-06-18 18:21:00,944 - INFO - Model deðerlendiriliyor...
+2025-06-18 18:21:00,951 - INFO - 
+Sýnýflandýrma Raporu:
+2025-06-18 18:21:00,956 - INFO -               precision    recall  f1-score   support
+
+    Positive       0.85      0.92      0.89       275
+    Negative       0.86      0.87      0.86       264
+     Neutral       0.90      0.83      0.86       285
+
+    accuracy                           0.87       824
+   macro avg       0.87      0.87      0.87       824
+weighted avg       0.87      0.87      0.87       824
+
+2025-06-18 18:21:00,956 - INFO - 
+Confusion Matrix:
+2025-06-18 18:21:00,957 - INFO - [[253   9  13]
+ [ 23 229  12]
+ [ 20  29 236]]
+2025-06-18 18:21:00,976 - INFO - Model kaydedildi: sentiment_model.pkl
+2025-06-18 22:23:50,379 - INFO - Veri seti yüklendi: 49899 örnek
+2025-06-18 22:25:47,061 - INFO - Veri seti yüklendi: 49899 örnek
+2025-06-18 22:25:59,796 - INFO - 
+Sýnýf daðýlýmý:
+sentiment
+Positive     17120
+Negative     17082
+Neutral      15609
+sentiment        1
+Name: count, dtype: int64
+2025-06-18 22:25:59,820 - INFO - Veri seti yüklendi: 825 örnek
+2025-06-18 22:26:00,015 - INFO - 
+Sýnýf daðýlýmý:
+sentiment
+Neutral     285
+Positive    275
+Negative    264
+Name: count, dtype: int64
+2025-06-18 22:26:00,019 - INFO - Model eðitiliyor...
+2025-06-18 22:26:01,101 - INFO - Model deðerlendiriliyor...
+2025-06-18 22:26:01,106 - INFO - 
+Sýnýflandýrma Raporu:
+2025-06-18 22:26:01,112 - INFO -               precision    recall  f1-score   support
+
+    Positive       0.85      0.92      0.89       275
+    Negative       0.86      0.87      0.86       264
+     Neutral       0.90      0.83      0.86       285
+
+    accuracy                           0.87       824
+   macro avg       0.87      0.87      0.87       824
+weighted avg       0.87      0.87      0.87       824
+
+2025-06-18 22:26:01,112 - INFO - 
+Confusion Matrix:
+2025-06-18 22:26:01,113 - INFO - [[253   9  13]
+ [ 23 229  12]
+ [ 20  29 236]]
+2025-06-18 22:26:01,129 - INFO - Model kaydedildi: sentiment_model.pkl
+2025-06-18 22:29:13,706 - INFO - Veri seti yüklendi: 49899 örnek
+2025-06-18 22:29:25,952 - INFO - 
+Sýnýf daðýlýmý:
+sentiment
+Positive     17120
+Negative     17082
+Neutral      15609
+sentiment        1
+Name: count, dtype: int64
+2025-06-18 22:29:25,955 - INFO - Veri seti yüklendi: 825 örnek
+2025-06-18 22:29:26,139 - INFO - 
+Sýnýf daðýlýmý:
+sentiment
+Neutral     285
+Positive    275
+Negative    264
+Name: count, dtype: int64
+2025-06-18 22:29:26,143 - INFO - Model eðitiliyor...
+2025-06-18 22:29:27,301 - INFO - Model deðerlendiriliyor...
+2025-06-18 22:29:27,306 - INFO - 
+Sýnýflandýrma Raporu:
+2025-06-18 22:29:27,310 - INFO -               precision    recall  f1-score   support
+
+    Positive       0.85      0.92      0.89       275
+    Negative       0.86      0.87      0.86       264
+     Neutral       0.90      0.83      0.86       285
+
+    accuracy                           0.87       824
+   macro avg       0.87      0.87      0.87       824
+weighted avg       0.87      0.87      0.87       824
+
+2025-06-18 22:29:27,310 - INFO - 
+Confusion Matrix:
+2025-06-18 22:29:27,312 - INFO - [[253   9  13]
+ [ 23 229  12]
+ [ 20  29 236]]
+2025-06-18 22:29:27,326 - INFO - Model kaydedildi: sentiment_model.pkl
